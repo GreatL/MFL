@@ -12,13 +12,15 @@ The datasets used in this paper are available for download on the public web. In
 
 ## Usage
 Before training, run
-
-```source set_env.sh```
+```
+source set_env.sh
+```
 
 This will create environment variables that are used in the code.
 
 To run the experiments, simply download the datasets and put them in the `data` directory. Then run the corresponding training script, e.g.,
-
-```bash run.sh```
+```
+bash run.sh
+```
 
 
